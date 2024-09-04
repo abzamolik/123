@@ -1,0 +1,3 @@
+aws_access_key = "AKIA6IY35WXRJVQEJKBH"
+aws_secret_key = "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"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDlP7fy3Xx/yz/ibyFlb/nGg9JDqrqe/4lKKK3WaFe0aO3oEzQxLKeSSw7rEQl1tvFCMoZsIWPMEiFLNhLaKS4EqMxGtOmI/uayzQ+joPDmsf1Qeq4puV2QoSKTfnb3RuIVb6NR8XUaCVS0K2Sv/GNIz+AS+ux0GhqD1YLn6Zs7GLGeEqi1ZUKuc52LmNMu9gomc0AK2+DR7vqI3k1zpfSq9CapfqMMqeSwEfKumoAYwoYT31/JkPe8wA0SCApyuu7WocTqztOrwN3wazoa5lgeIxzzINA2bpmQmSGB5gABfjKx+/+LqH9mrxBmjbJky6l1tfTEiXrqTldEEovmAQ+t abhijitamolik@ABZ-NODE"
